@@ -1,3 +1,5 @@
+No Supabase isso funciona
+
 -- varchar = uma string com um número limite de caracteres definidos pelo desenvolvedor
 -- text = não tem um limite de caracteres
 -- integer = um valor numérico
